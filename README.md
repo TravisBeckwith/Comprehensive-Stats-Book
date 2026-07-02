@@ -21,7 +21,7 @@ The outline is a curriculum blueprint, not a finished text. Each chapter heading
 
 ---
 
-## Textbook Structure
+## **Textbook Structure**
 
 ### Part I — Foundations of Statistical Thinking
 - Chapter 1 · The Nature of Statistics and Scientific Reasoning
