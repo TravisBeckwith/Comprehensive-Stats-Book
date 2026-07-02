@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or cite this work, please use the following metadata."
+title: "Comprehensive Statistics: A Complete Textbook"
+authors:
+  - name: "[AUTHOR NAME]"
+version: "0.1.0"
+date-released: "2026"
+url: "https://github.com/[USERNAME]/[REPO-NAME]"
+abstract: >
+  A graduate-to-practitioner-level statistics textbook covering 57 chapters
+  across 17 parts — from probability foundations and descriptive statistics
+  through Bayesian inference, causal methods, time series, machine learning,
+  and epidemiology. Accompanied by a 65-section categorized reference of
+  statistical tests and methods.
+keywords:
+  - statistics
+  - textbook
+  - Bayesian inference
+  - causal inference
+  - machine learning
+  - epidemiology
+  - time series
+  - open textbook
+license: "[TBD]"
