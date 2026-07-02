@@ -1,4 +1,6 @@
 # Comprehensive Statistics
+[![DOI](https://zenodo.org/badge/1287424895.svg)](https://doi.org/10.5281/zenodo.21139235)
+
 
 **A Complete Textbook Outline and Categorized Methods Reference**
 
