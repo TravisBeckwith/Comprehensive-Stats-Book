@@ -2,10 +2,11 @@ cff-version: 1.2.0
 message: "If you use or cite this work, please use the following metadata."
 title: "Comprehensive Statistics: A Complete Textbook"
 authors:
-  - name: "[AUTHOR NAME]"
+  - family-names: "[LAST NAME]"
+    given-names: "[FIRST NAME]"
 version: "0.1.0"
-date-released: "2026"
-url: "https://github.com/[USERNAME]/[REPO-NAME]"
+date-released: "2026-07-02"
+repository-code: "https://github.com/[USERNAME]/[REPO-NAME]"
 abstract: >
   A graduate-to-practitioner-level statistics textbook covering 57 chapters
   across 17 parts — from probability foundations and descriptive statistics
@@ -21,4 +22,3 @@ keywords:
   - epidemiology
   - time series
   - open textbook
-license: "[TBD]"
